@@ -1,7 +1,8 @@
 ﻿  Source.c
-c:\users\david\source\repos\cardgame25\cardgame25\source.c(11): warning C4305: 'initializing': truncation from 'int' to 'char'
-c:\users\david\source\repos\cardgame25\cardgame25\source.c(12): warning C4305: 'initializing': truncation from 'int' to 'char'
-c:\users\david\source\repos\cardgame25\cardgame25\source.c(21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\david\source\repos\cardgame25\cardgame25\source.c(22): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\david\source\repos\cardgame25\cardgame25\source.c(86): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
 c:\users\david\source\repos\cardgame25\cardgame25\source.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\david\source\repos\cardgame25\cardgame25\source.c(21): warning C4101: 'p2Score': unreferenced local variable
+c:\users\david\source\repos\cardgame25\cardgame25\source.c(21): warning C4101: 'p1Score': unreferenced local variable
   cardGame25.vcxproj -> C:\Users\David\source\repos\cardGame25\Debug\cardGame25.exe
